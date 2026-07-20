@@ -6,8 +6,6 @@
  * for managing persistent configuration stored in EEPROM.
  *
  * Author:  Ahlaireah Lewis
- * Course:  SER486
- * Assignment: Project 2
  * Date:    4/14/2026
  * Revision: 1.0
  ********************************************************/
