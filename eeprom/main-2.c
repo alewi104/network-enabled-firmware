@@ -6,8 +6,6 @@
  * subsystems and runs the main control loop.
  *
  * Author:  Ahlaireah Lewis
- * Course:  SER486
- * Assignment: Project 2
  * Date:    4/14/2026
  **********************************************************/
 
