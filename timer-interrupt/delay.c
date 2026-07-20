@@ -1,8 +1,7 @@
 /**********************************************************
 * delay.c
 *
-* SER 486 Project 1
-* 4/12/26 [Spring 2026]
+* 4/12/26
 * Author: Ahlaireah Lewis
 * 
 * Implements a non-blocking delay system using Timer0.
