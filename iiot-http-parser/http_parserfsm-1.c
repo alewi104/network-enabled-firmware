@@ -1,7 +1,7 @@
 /********************************************************
  * http_parserfsm.c
  *
- * Implements the HTTP request parser FSM for the SER486
+ * Implements the HTTP request parser FSM for the
  * IIoT sensor endpoint. Parses HTTP requests directly
  * from the socket receive buffer (no local copy).
  *
@@ -12,7 +12,6 @@
  *   DELETE /device/log
  *
  * Author:   Ahlaireah Lewis
- * Course:   SER486
  * Date:     4/30/2026
  * Revision: 1.0
  *
