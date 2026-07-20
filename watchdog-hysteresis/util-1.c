@@ -6,8 +6,6 @@
  * threshold values with proper validation and persistence.
  *
  * Author: Ahlaireah Lewis
- * Course: SER486
- * Assignment: Project 3
  * Date:     4/23/2026
  * Revision: 1.0
  *
