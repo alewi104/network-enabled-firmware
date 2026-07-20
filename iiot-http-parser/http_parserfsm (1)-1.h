@@ -2,7 +2,7 @@
  * http_parserfsm.h
  *
  * Provides function declarations for the HTTP parser
- * finite state machine used in the SER486 project.
+ * finite state machine.
  *
  * Author:   Ahlaireah Lewis
  * Date:     4/30/2026
