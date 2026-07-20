@@ -7,8 +7,6 @@
  * logs, and LED indicators based on threshold crossings.
  *
  * Author: Ahlaireah Lewis
- * Course: SER486
- * Assignment: Project 3
  * Date:     4/23/2026
  * Revision: 1.0
  *
