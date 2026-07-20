@@ -1,12 +1,9 @@
 ########################################################################
-# Makefile settings - Can be customized.
+# Makefile settings
 LIBS = ./lib_proj1.a
 RELEASE_OPTIMIZATION = Os
 USER_SETTINGS = -I ./ -DYOURNAME="Ahlaireah Lewis"
 
-########################################################################
-# DO NOT CHANGE ANYTHING BELOW THIS LINE
-########################################################################
 CC = avr-gcc
 CLOCK_RATE=16000000UL
 TARGET_SETTINGS = -mmcu=atmega328p -DF_CPU=16000000UL
