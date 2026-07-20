@@ -1,9 +1,7 @@
 /*************************************************************************
 * main.c
 *
-* This is template code for the SER486 final exam.  Students may use this
-* as a starting point their final project.
-* Revised by: Ahlaireah Lewis
+* Authored by: Ahlaireah Lewis
 * Date: 4/30/2026
 * Revision: 1.1
 */
