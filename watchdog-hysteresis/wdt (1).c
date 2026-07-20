@@ -6,8 +6,6 @@
  * initialization, reset handling, and interrupt servicing.
  *
  * Author: Ahlaireah Lewis
- * Course: SER486
- * Assignment: Project 3
  * Date:     4/23/2026
  * Revision: 1.0
  *
